@@ -6,5 +6,12 @@ fun main() {
     val height = 1.78f
     val root2 = Math.sqrt(2.0)
 
+    println(myAge::class)
+    println(universeAge::class)
+    println(status::class)
+    println(name::class)
+    println(height::class)
+    println(root::class)
+
 }
 
