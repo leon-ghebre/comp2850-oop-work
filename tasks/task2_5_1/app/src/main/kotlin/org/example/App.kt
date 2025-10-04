@@ -11,7 +11,7 @@ fun main() {
     println(status::class)
     println(name::class)
     println(height::class)
-    println(root::class)
+    println(root2::class)
 
 }
 
