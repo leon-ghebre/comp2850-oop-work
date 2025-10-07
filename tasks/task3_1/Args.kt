@@ -6,8 +6,9 @@ fun main(args: Array<String>) {
         println("Error: Two arguments are required!")
         exitProcess(1)
     }
-    println(args[0])Í
+    println(args[0])
     println(args[1])
+    
 }
 
 
