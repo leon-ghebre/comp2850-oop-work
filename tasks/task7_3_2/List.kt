@@ -10,4 +10,14 @@ fun main () {
     println(numbers.last())
     numbers.add(1)
     println(numbers)
+    val birthDate = mutableListOf(28,5,2005)
+    numbers.addAll(birthDate)
+    println(numbers)
+    numbers.removeAll(birthDate)
+    println(numbers)
+    numbers.removeAt(0)
+    println(numbers)
+    numbers.clear()
+    println(numbers)
+
 }
